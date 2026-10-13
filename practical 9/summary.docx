@@ -1,0 +1,7 @@
+Summary:
+
+In this practical, Prim’s Algorithm was implemented in Python to find the Minimum Spanning Tree (MST) of a weighted undirected graph. The graph was represented using vertices and edges in the form (vertex1, vertex2, weight). Starting from vertex A, the algorithm repeatedly selected the minimum-weight edge that connected a visited vertex to an unvisited vertex. The process continued until all vertices were included in the MST.
+
+Conclusion:
+
+The practical successfully demonstrated the implementation of Prim’s Algorithm in Python. For the given graph, the Minimum Spanning Tree contains the edges A-B, B-C, B-E, and A-D, with a total minimum cost of 16. Thus, Prim’s Algorithm provides an efficient method for connecting all vertices of a weighted graph with the minimum possible total edge weight.
